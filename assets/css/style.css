@@ -511,7 +511,7 @@ img {
     display: flex;
     flex-direction: column;
     flex-flow: column;
-    background-color: #6b2128;
+    background-color: #FFF;
     color: var(--first-color-lighten);
     border-radius: .5rem;
     padding: 1rem;
@@ -546,11 +546,13 @@ img {
     align-self: center;
     padding: 1rem;
     margin-bottom: var(--mb-2);
+    color: black;
 }
 
 .skills__description {
     margin-top: 0.5rem;
     padding-bottom: 1rem;
+    color: #000;
 }
 .swiper-pagination {
     position: initial;
